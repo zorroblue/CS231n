@@ -24,7 +24,7 @@ Happy learning!
       approach; k-nearest neighbors; Linear classification I
    - [X] [Video](https://youtu.be/8inugqHkfvE)
    - [X] [Slides](slides/lecture2.pdf)
-   - [ ] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
+   - [X] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
    - [ ] [Image classification notes](notes/image-classification.pdf)
    - [ ] [Linear classification notes](notes/linear-classification.pdf)
 - [ ] **Lecture 3:** Linear classification II; Higher-level
